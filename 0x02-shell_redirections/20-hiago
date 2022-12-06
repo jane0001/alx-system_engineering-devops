@@ -1,1 +1,2 @@
-#!/bin/bash\n tr -d "cC" 
+#!/bin/bash
+ tr -d "cC" 
